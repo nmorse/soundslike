@@ -2,7 +2,8 @@
   "name": "Soundalike Audio",
   "short_name": "Soundalike",
   "start_url": "",
-  "display": "A standalone audio recorder with loop editing functions",
+  "desription": "An audio recorder with loop editing functions",
+  "display": "standalone",
   "background_color": "#333",
   "theme_color": "#3367D6",
   "icons": [
