@@ -1,7 +1,7 @@
 {
   "name": "Soundalike Audio",
   "short_name": "Soundalike",
-  "start_url": "/",
+  "start_url": "",
   "display": "A standalone audio recorder with loop editing functions",
   "background_color": "#333",
   "theme_color": "#3367D6",
